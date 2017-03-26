@@ -1,0 +1,10 @@
+{
+	"id" : "labox",
+	"name" : "LaBox SFR / NC",
+	"licence" : "AGPL",
+	"author" : "baqs",
+	"require" : "2.4",
+	"category" : "multimedia",
+  	"hasDependency" : 1,
+  	"hasOwnDeamon" : 1
+}
